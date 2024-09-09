@@ -1,0 +1,61 @@
+.navbar_{
+    background-color: aqua;
+}
+.home{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    padding-left: 60%;
+}
+home:hover{
+    text-decoration: none;
+}
+body{
+    font-family: serif;
+}
+
+.biriyanibody{
+    align-content: center;
+}
+.head {
+    height: auto;
+    width: 100%;
+    /* border: 2px solid black; */
+    /* border-radius: 2px; */
+    padding: 10px;
+}
+*{
+    box-sizing: border-box;
+}
+.email{
+    background-color: black;
+    border:0;
+    margin:0;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+}
+.biriyani {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+.names{
+    text-align: center;
+    text-decoration: none;
+    color:black;
+}
+body{
+    font-family: serif;
+    
+}
+.biriyani_title{
+    color:rgb(199, 40, 40);
+}
